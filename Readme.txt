@@ -1,0 +1,2 @@
+This is a tiny mod for 7 Days to Die Alpha 21. It removes loot from all containers except for zombie loot bags and quest satchels. There are no resources or graphics added.
+The mod consists entirely of xpath edits.

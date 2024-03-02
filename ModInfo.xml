@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<xml>
+	<Name value="ZPacksOnly" />
+	<DisplayName value="Only Zombie Loot Bags contain loot"/>
+	<Description value="Removes all loot except for zombie lootbags and quest satchels. It also sets loot bag drop probability to 1." />
+	<Author value="drgnkght" />
+	<Version value="1.0.0.0" />
+	<Website value="" />
+</xml>

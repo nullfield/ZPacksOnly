@@ -1,0 +1,3 @@
+<entityclasses>
+	<setattribute xpath="//entity_class/property[@name='LootDropProb']" name="value">1</setattribute>
+</entityclasses>

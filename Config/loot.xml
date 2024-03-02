@@ -1,0 +1,4 @@
+<loot>
+	<setattribute xpath="//lootcontainer[not(starts-with(@name, 'zPack')) and not(@name='questSatchel')]/item[@group]" name="group">empty</setattribute>
+	<remove xpath="//lootcontainer[not(starts-with(@name, 'zPack')) and not(@name='questSatchel')]/item"></remove>
+</loot>
